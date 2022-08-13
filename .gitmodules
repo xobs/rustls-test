@@ -1,0 +1,6 @@
+[submodule "ring"]
+	path = ring
+	url = https://github.com/briansmith/ring.git
+[submodule "rustls"]
+	path = rustls
+	url = https://github.com/rustls/rustls.git
